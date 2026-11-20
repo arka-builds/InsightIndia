@@ -1,0 +1,8 @@
+rule,failed_records,records_tested,passed_records,pass_rate_pct
+revenue_expenditure_lakh_crore: non-null numeric,2,8,6,75.0
+revenue_expenditure_lakh_crore: non-negative,0,6,6,100.0
+gross_fiscal_deficit_lakh_crore: non-null numeric,0,8,8,100.0
+gross_fiscal_deficit_lakh_crore: non-negative,1,8,7,87.5
+capital_expenditure_lakh_crore: non-null numeric,1,8,7,87.5
+capital_expenditure_lakh_crore: non-negative,0,7,7,100.0
+fiscal_year normalized,1,8,7,87.5

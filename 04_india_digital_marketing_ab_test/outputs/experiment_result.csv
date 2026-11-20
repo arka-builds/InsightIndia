@@ -1,0 +1,2 @@
+control_users,treatment_users,control_rate,treatment_rate,absolute_lift_pp,relative_lift_pct,z_statistic,p_value,significant_at_5pct,sample_ratio_chi2,sample_ratio_p_value,sample_ratio_mismatch_at_5pct,interpretation
+9941,10059,0.02716024544814405,0.031613480465254994,0.44532350171109447,16.396151594481445,1.8640572642355884,0.062313663095434,False,0.6962,0.4040635028020917,False,Synthetic experiment only; no real campaign inference.

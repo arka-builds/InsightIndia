@@ -1,0 +1,37 @@
+year,state_ut,metric,value,source,data_status
+2023,Tamil Nadu,accidents,67213.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Madhya Pradesh,accidents,55327.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Kerala,accidents,48091.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Uttar Pradesh,accidents,44534.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Karnataka,accidents,43440.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Maharashtra,accidents,35243.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Rajasthan,accidents,24694.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Telangana,accidents,22903.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Andhra Pradesh,accidents,19949.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Gujarat,accidents,16349.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,West Bengal,accidents,13795.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Chhattisgarh,accidents,13468.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Odisha,accidents,11992.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Bihar,accidents,11014.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Haryana,accidents,10463.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Assam,accidents,7421.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Jammu & Kashmir,accidents,6298.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Punjab,accidents,6269.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Delhi,accidents,5834.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Jharkhand,accidents,5315.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Goa,accidents,2846.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Himachal Pradesh,accidents,2253.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Uttarakhand,accidents,1691.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Puducherry,accidents,1308.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Tripura,accidents,577.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Manipur,accidents,398.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Nagaland,accidents,303.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Ladakh,accidents,289.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Arunachal Pradesh,accidents,287.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Meghalaya,accidents,223.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Chandigarh,accidents,182.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Sikkim,accidents,182.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Dadra & Nagar Haveli (incl. Daman & Diu where reported),accidents,182.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Andaman & Nicobar Islands,accidents,143.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Mizoram,accidents,106.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Lakshadweep,accidents,1.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported

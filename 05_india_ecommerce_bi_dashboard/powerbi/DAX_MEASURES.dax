@@ -1,0 +1,7 @@
+Total Orders = DISTINCTCOUNT(Orders[order_id])
+Delivered Orders = CALCULATE([Total Orders], Orders[order_status] = "Delivered")
+Delivered Revenue = CALCULATE(SUM(Orders[order_value_inr]), Orders[order_status] = "Delivered")
+Average Order Value = DIVIDE([Delivered Revenue], [Delivered Orders])
+Late Delivery Rate = DIVIDE(CALCULATE([Delivered Orders], Orders[is_late_delivery] = 1), [Delivered Orders])
+Average Review = AVERAGE(Orders[review_score])
+Return Rate = DIVIDE(CALCULATE([Total Orders], Orders[order_status] = "Returned"), [Total Orders])
