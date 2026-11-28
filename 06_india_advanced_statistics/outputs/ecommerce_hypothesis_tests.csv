@@ -1,0 +1,8 @@
+test,statistic,p_value,effect_size,effect_measure,n,note,significant_at_5pct
+"Mann-Whitney U: review score, late vs on-time",5506197.0,0.0,-0.7511654719330931,Cliff's delta (late vs on-time),16103,"Ordinal 1-5 scores, so a rank test is used instead of a t-test.",True
+Spearman: shipping days vs review score,-0.4148456451941096,0.0,-0.4148456451941096,Spearman rho,16103,Monotonic association.,True
+Chi-square: late delivery vs payment_method,11.374716634920416,0.022660331557780678,0.026392297669896276,Cramer's V,16330,dof=4,True
+Chi-square: late delivery vs category,11.88467832886636,0.06459149454520156,0.02697743305043294,Cramer's V,16330,dof=6,False
+Chi-square: late delivery vs state,27.63824874540331,0.7713664998381689,0.04113979925814922,Cramer's V,16330,dof=34,False
+Kruskal-Wallis: order value across categories,3.9608759190561322,0.6819711150827714,-0.00012492336463541432,epsilon-squared,16330,"Order value is right-skewed, so medians/ranks are compared.",False
+"Levene (Brown-Forsythe): order-value variance, late vs on-time",1.3055925616221835,0.25321095329016674,,,16330,,False

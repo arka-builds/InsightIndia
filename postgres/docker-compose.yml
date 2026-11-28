@@ -1,0 +1,22 @@
+# Local PostgreSQL 16 for InsightIndia 2.1
+#   docker compose -f postgres/docker-compose.yml up -d
+#   export DATABASE_URL=postgresql://insight:insight@localhost:5432/insightindia
+#   python postgres/load_postgres.py
+services:
+  db:
+    image: postgres:16
+    container_name: insightindia-pg
+    environment:
+      POSTGRES_USER: insight
+      POSTGRES_PASSWORD: insight
+      POSTGRES_DB: insightindia
+    ports:
+      - "5432:5432"
+    volumes:
+      - insightindia_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U insight -d insightindia"]
+      interval: 5s
+      retries: 10
+volumes:
+  insightindia_pgdata:

@@ -1,0 +1,11 @@
+year,metric,reported_sum,official_total,passed
+2019,accidents,456959,456959,True
+2020,accidents,372181,372181,True
+2021,accidents,412432,412432,True
+2022,accidents,461312,461312,True
+2023,accidents,480583,480583,True
+2019,persons_killed,158984,158984,True
+2020,persons_killed,138383,138383,True
+2021,persons_killed,153972,153972,True
+2022,persons_killed,168491,168491,True
+2023,persons_killed,172890,172890,True

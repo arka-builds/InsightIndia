@@ -1,0 +1,37 @@
+year,state_ut,metric,value,source,data_status
+2023,Uttar Pradesh,persons_killed,23652.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Tamil Nadu,persons_killed,18347.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Maharashtra,persons_killed,15366.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Madhya Pradesh,persons_killed,13798.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Karnataka,persons_killed,12321.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Rajasthan,persons_killed,11762.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Bihar,persons_killed,8873.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Andhra Pradesh,persons_killed,8137.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Gujarat,persons_killed,7854.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Telangana,persons_killed,7660.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Chhattisgarh,persons_killed,6166.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,West Bengal,persons_killed,6027.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Odisha,persons_killed,5739.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Haryana,persons_killed,4968.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Punjab,persons_killed,4829.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Jharkhand,persons_killed,4173.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Kerala,persons_killed,4080.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Assam,persons_killed,3296.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Delhi,persons_killed,1457.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Uttarakhand,persons_killed,1054.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Jammu & Kashmir,persons_killed,893.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Himachal Pradesh,persons_killed,889.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Goa,persons_killed,290.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Tripura,persons_killed,261.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Meghalaya,persons_killed,168.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Puducherry,persons_killed,149.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Arunachal Pradesh,persons_killed,145.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Mizoram,persons_killed,96.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Nagaland,persons_killed,86.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Dadra & Nagar Haveli,persons_killed,74.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Manipur,persons_killed,73.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Chandigarh,persons_killed,67.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Ladakh,persons_killed,59.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Sikkim,persons_killed,57.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Andaman & Nicobar Islands,persons_killed,24.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported
+2023,Lakshadweep,persons_killed,0.0,"MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6",official_reported

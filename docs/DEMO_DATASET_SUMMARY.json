@@ -1,0 +1,33 @@
+{
+  "ecommerce": {
+    "rows": 18000,
+    "provenance": "synthetic demonstration",
+    "delivered_orders": 16330
+  },
+  "road_safety": {
+    "rows": 370,
+    "provenance": "MoRTH Road Accidents in India 2023, Tables 5.1 and 5.6; 2019-2023 state/UT data",
+    "metrics": [
+      "accidents",
+      "persons_killed"
+    ],
+    "national_totals_reconciled": 10
+  },
+  "state_finances": {
+    "rows": 8,
+    "provenance": "RBI State Finances: A Study of Budgets 2025-26, Tables II.1-II.3; consolidated States/UTs",
+    "estimate_statuses": [
+      "Accounts/actual",
+      "Revised Estimate",
+      "Provisional Accounts",
+      "Budget Estimate"
+    ]
+  },
+  "marketing_ab_test": {
+    "rows": 20000,
+    "provenance": "synthetic randomized experiment"
+  },
+  "finance_quality_fixture": {
+    "provenance": "synthetic QA fixture with injected defects"
+  }
+}

@@ -1,0 +1,2 @@
+control_users,treatment_users,control_rate,treatment_rate,abs_lift_pp,newcombe_ci95_low_pp,newcombe_ci95_high_pp,z_test_p_value,permutation_p_value,bayes_prob_treatment_better,bayes_rel_lift_ci95_low_pct,bayes_rel_lift_ci95_high_pct,observed_power,mde_abs_pp_at_80pct_power,users_per_group_for_20pct_rel_lift,seed
+9941,10059,0.02716024544814405,0.031613480465254994,0.44532350171109447,-0.023383614648798956,0.9152083398352544,0.062313663095434,0.0626,0.96864,-0.8171965281301466,36.56401956536814,0.4625454074592899,0.6810247286630198,15388,2026

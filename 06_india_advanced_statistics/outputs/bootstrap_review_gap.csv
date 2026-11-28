@@ -1,0 +1,2 @@
+metric,point_estimate,ci95_low,ci95_high,n_boot,seed
+mean review: on-time minus late,1.4458128422764585,1.4146304389255113,1.4768753000165495,2000,2026

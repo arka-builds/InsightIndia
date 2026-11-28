@@ -1,0 +1,6 @@
+check,failed_records,records_tested,pass_rate_pct
+Rows present,0,1,100.0
+Unique order IDs,0,18000,100.0
+Order date populated,0,18000,100.0
+Non-negative order value,0,18000,100.0
+Review score within 1-5 when present,0,17750,100.0
